@@ -35,3 +35,21 @@ git remote -v
 git remote add origin "github.com/Suyeon3/project.git"
 git remote -v
 git push origin main
+git remote add origin https://github.com/Suyeon3/project.git
+git remote remove origin
+git remote add origin https://github.com/Suyeon3/project.git
+git remote -v
+git push origin main
+git init
+git add.
+git add*
+git add .
+git commit -m "깃 테스트"
+git config --global "Suyeon3"
+git congif --global "suyeon"
+git config --global "suyeon"
+git init
+git add*
+git add *
+git commit -m "깃 테스트"
+git config --global "suyeon"
