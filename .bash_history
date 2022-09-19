@@ -53,3 +53,16 @@ git add*
 git add *
 git commit -m "깃 테스트"
 git config --global "suyeon"
+git config --global user.name "Suyeon3"
+git config --global user.email "jso8787@naver.com"
+git init
+git add *
+git commit -m "깃 테스트"
+gir remote add origin https://github.com/Suyeon3/project.git
+git remote add origin https://github.com/Suyeon3/project.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
